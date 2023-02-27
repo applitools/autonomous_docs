@@ -3,11 +3,11 @@
 :root
 {
 	--Medium: #b9bec1;
-	--Light: #d0d3d5;
 	--White: #ffffff;
 	--Brand1: #00A698;
 	--Brand2: #8EEFD8;
 	--Dark: #16233D;
+	--Light: #A0DCF9;
 }
 
 body
@@ -356,7 +356,7 @@ ul
 div.home-footer
 {
 	padding: 2% 5%;
-	background-color: var(--Brand1);
+	background-color: var(--White);
 }
 
 div.side-content	/*Used on OtherTopics.flmsp for the search-bar and menu*/
@@ -392,6 +392,7 @@ p.footer-sub
 	font-size: 14pt;
 	margin-top: 14px;
 }
+
 
 @media tablet
 {

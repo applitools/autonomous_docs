@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1">
   <TocEntry
@@ -6,17 +6,15 @@
     Link="/Content/A-Introduction-Topics/Getting-Started.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/A-Introduction-Topics/Whats-New.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/A-Introduction-Topics/Basic-Steps.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+      Link="/Content/A-Introduction-Topics/Whats-New.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.Exclude" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/B-Feature-Topics/Features.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/B-Feature-Topics/Feature1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/B-Feature-Topics/home_page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/B-Feature-Topics/Feature2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
@@ -39,10 +37,12 @@
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/D-Reference/FAQs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/D-Reference/FAQs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="Default.Exclude" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/D-Reference/Tips.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/D-Reference/Tips.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="Default.Exclude" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/D-Reference/Company.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
