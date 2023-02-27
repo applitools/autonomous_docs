@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultSkin
-  Version="3"
+  Version="6"
   SkinType="WebHelp2"
   ComponentType="MasterPage"
   TemplateName="Fluid"
@@ -19,13 +19,15 @@
         Name="icon-searchGray-17x17.png">H4sIAAAAAAAEAAF3AYj+iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAABPklEQVQ4jZ3SoU4dQRjF8d9C4BGqEBgcTcolgYRUguEJ6iownSaMHI1eQ1jBUh6BBINAkKAwmCoU8iatw5S0NQgQO4SbZRYCx4z55j9nvnMqWXXTzmALX7GEWYxxgjrF8NuAqgz4kIdXcY1z/MUnrOMfvqQYTouQ7OACI2zjMMVwP+HwI44wj88php99yFT+wiq2Uww/JgGQYrjCBv6jKTmZyju4xuHQn1MMv7CHtbppF0qQJZz3HRR0ls9RCTKrW+Jrus3nTAky1qXwmh4djEuQE6znFIqqm3Zal9wNLkuQWteDo7pp5wYAu1jBTorhrj/zWLZNHOti3NMt8dZTd1by/AG+90OoJl5c1vVgrffQDXawiG8lUNW7IPdgpEthjMsUw13dtBX2S6BnkJc0BHoTZAj0ZkgJ9C5ID/TnAVI3cUEEUn5MAAAAAElFTkSuQmCCsG2E/HcBAAA=</Resource>
       <Resource
         Name="HamburgerIcon-gray.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0kJAzM/BBiRfts0HcTgLPCKLGRi4hUCY8dLduj9AQWNPF8cQi9PJOTk5c84fODDhgINkxAEXVmcJIBCaASTEAg4qZM0wjGB8nLGm99ithC5ThgRD/rK3Bm7PgdoZPF39XNY5JTQBAGesBKiBAAAA</Resource>
+      <Resource
+        Name="Logo.png">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</Resource>
     </Resources>
     <Styles>
       <Style
         Name="Logo">
         <Properties>
           <Property
-            Name="BackgroundImage">url('PlaceholderLogo-white.png')</Property>
+            Name="BackgroundImage">url('Logo.png')</Property>
         </Properties>
       </Style>
       <Style
@@ -39,6 +41,26 @@
             Name="BorderBottomRightRadius">0px</Property>
           <Property
             Name="BorderBottomLeftRadius">0px</Property>
+          <Property
+            Name="MarginLeft">1px</Property>
+          <Property
+            Name="MarginRight">1px</Property>
+          <Property
+            Name="MarginTop">10px</Property>
+          <Property
+            Name="MarginBottom">1px</Property>
+          <Property
+            Name="Display">block</Property>
+          <Property
+            Name="Stretch">yes</Property>
+          <Property
+            Name="BorderLeft">solid 1px #808080</Property>
+          <Property
+            Name="BorderRight">solid 1px #a9a9a9</Property>
+          <Property
+            Name="BorderTop">solid 1px #a9a9a9</Property>
+          <Property
+            Name="BorderBottom">solid 1px #a9a9a9</Property>
         </Properties>
       </Style>
       <Style
@@ -65,7 +87,18 @@
             </Properties>
           </StyleClass>
         </Classes>
-        <Properties></Properties>
+        <Properties>
+          <Property
+            Name="BackgroundColor">#ffffff</Property>
+          <Property
+            Name="BackgroundGradient">vertical #ffffff #ffffff</Property>
+          <Property
+            Name="Color">#808080</Property>
+          <Property
+            Name="AlignmentHorizontal">middle</Property>
+          <Property
+            Name="Stretch">no</Property>
+        </Properties>
       </Style>
       <Style
         Name="Menu Item (hover)">
@@ -78,12 +111,16 @@
             </Properties>
           </StyleClass>
         </Classes>
+        <Properties>
+          <Property
+            Name="Color">#00A698</Property>
+        </Properties>
       </Style>
       <Style
         Name="Header">
         <Properties>
           <Property
-            Name="BackgroundColor">#076685</Property>
+            Name="BackgroundColor">#ffffff</Property>
         </Properties>
       </Style>
       <Style
@@ -295,6 +332,13 @@
         <Properties>
           <Property
             Name="Color">#076685</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Micro Content Response Button">
+        <Properties>
+          <Property
+            Name="BackgroundRepeat">no-repeat</Property>
         </Properties>
       </Style>
     </Styles>
