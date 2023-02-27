@@ -2,12 +2,12 @@
 
 :root
 {
-	--Brand1: #076685;
-	--Brand2: #CDE0E7;
-	--Dark: #45494c;
 	--Medium: #b9bec1;
 	--Light: #d0d3d5;
 	--White: #ffffff;
+	--Brand1: #00A698;
+	--Brand2: #8EEFD8;
+	--Dark: #16233D;
 }
 
 body
@@ -555,3 +555,4 @@ p.footer-sub
 		text-decoration: none;
 	}
 }
+
