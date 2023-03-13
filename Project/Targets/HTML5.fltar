@@ -1,15 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
-  Comment="MadCap HTML5 Target"
+  Comment=""
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  MasterPage="/Content/Resources/templatepages/Other-Topics.flmsp"
   DefaultUrl="/Content/Home.htm"
   ShowMadCapBacklink="false"
   MasterToc="/Project/TOCs/TOC.fltoc"
-  ConditionTagExpression="exclude[Default.Exclude]">
+  ConditionTagExpression="exclude[Default.Exclude]"
+  MakeFileLowerCase="true"
+  AliasFile="/Project/Advanced/Alias.flali"
+  ContentInclusionType="Referenced">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

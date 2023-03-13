@@ -1,0 +1,1 @@
+﻿#define intro 1000
