@@ -5,13 +5,14 @@
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  DefaultUrl="/Content/home.htm"
+  DefaultUrl="/Content/index.html"
   ShowMadCapBacklink="false"
   MasterToc="/Project/TOCs/TOC.fltoc"
   ConditionTagExpression="exclude[Default.Exclude]"
   MakeFileLowerCase="true"
   AliasFile="/Project/Advanced/Alias.flali"
-  ContentInclusionType="Referenced">
+  ContentInclusionType="Referenced"
+  OutputFile="index.html">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
